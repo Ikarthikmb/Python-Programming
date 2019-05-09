@@ -1,0 +1,200 @@
+   14  git config  global karthikmble.gmail"karthikmble@gmail.com"
+   15  git global
+   16  git help
+   17  git global help
+   18  git help
+   19  git config  global user.email"name@email.com"
+   20  git version
+   21  git global 
+   22  close
+   23  exit
+   24  #hello-world-2.0
+   25  clear
+   26  #hello-world-2.0 >>readme.md
+   27  git init
+   28  #hello-world-2.0 >>readme.md
+   29  git init
+   30  echo #hello-world-2.0 >>readme.md
+   31  git init
+   32  clear
+   33  echo "# hello-world-2.0" >> README.md
+   34  git init
+   35  git add README.md
+   36  git commit -m "first commit"
+   37  git remote add origin https://github.com/Ikarthikmb/hello-world-2.0.git
+   38  git push -u origin master
+   39  echo "# hello-world-2.0" >> README.md
+   40  git init
+   41  git add README.md
+   42  git commit -m "first commit"
+   43  git remote add origin https://github.com/Ikarthikmb/hello-world-2.0.git
+   44  git push -u origin master
+   45  echo "# hello-world" >> README.md
+   46  git init
+   47  git add README.md
+   48  git commit -m "first commit"
+   49  git remote add origin git@github.com:Ikarthikmb/hello-world.git
+   50  git push -u origin master
+   51  help color
+   52  info color
+   53  color green
+   54  [color]
+   55  color
+   56  clear
+   57  help
+   58  ls
+   59  ls
+   60  cd Desktop
+   61  ls
+   62  cd SRT
+   63  ls
+   64  cd Git
+   65  pwd
+   66  cd Programs/
+   67  color 32
+   68  32
+   69  pwd
+   70  text color=green
+   71  text color=32
+   72  ls
+   73  ls
+   74  ls
+   75  ls
+   76  cd ..
+   77  cd ..
+   78  cd Git
+   79  cd Programs/
+   80  ls
+   81  cd ..
+   82  ls
+   83  cd Programs/
+   84  ls
+   85  s
+   86  ls
+   87  git --
+   88  cd ..
+   89  cd..
+   90  git --
+   91  git --version
+   92  git help
+   93  cd Programs/
+   94  ls
+   95  git config --list
+   96  git --config list
+   97  git config --list
+   98  git config --global user.name "draco"
+   99  git config --global user.name "drako"
+  100  git config user.name
+  101  git config --global user.email karthikmble@gmail.com
+  102  git config --global user.email
+  103  git config --global user.email
+  104  git init
+  105  s
+  106  ls
+  107  cd .git
+  108  ls
+  109  cat config
+  110  ad .a
+  111  cd .a
+  112  cd .a
+  113  cd ..
+  114  cd .a
+  115  ls
+  116  git add data.txt 
+  117  git commit -m "initial commit
+  118  git commit -m "initial commit
+  119  git commit -m "initial commit
+  120  git commit -m "initial commit"
+  121  q
+  122  quit
+  123  exit
+  124  quit
+  125  git status
+  126  ls Desktop
+  127  ls Git
+  128  ls SRT
+  129  ls
+  130  cd Desktop
+  131  ls
+  132  cd SRT
+  133  cd Git
+  134  cd Programs/
+  135  git config --list
+  136  git config user.name "drako"
+  137  git config seare.name
+  138  git config --global user.email karthikmble@gmail.com
+  139  git config user.email
+  140  git init
+  141  ls .a
+  142  cd .git
+  143  git status
+  144  git add data.txt
+  145  cd ..
+  146  git add data.txt
+  147  git status
+  148  git add data2.txt
+  149  git commit -m"initial commit"
+  150  git status
+  151  git log
+  152  echo "second line" >> data2.txt
+  153  git add data2.txt
+  154  git status
+  155  touch data{1..100}.txt
+  156  ls
+  157  cat data1.txt
+  158  echo "hello git" >> data2.txt
+  159  git add data2.txt
+  160  cat data1.txt
+  161  git log
+  162  git status
+  163  touch data1000.txt
+  164  cd Deskto
+  165  cd Deskto
+  166  cd Desktok
+  167  cd Desktop
+  168  cd Git
+  169  cd SRT/
+  170  cd Gq
+  171  cd Git/
+  172  cd Programs/
+  173  ls
+  174  rm data{3..100}.txt
+  175  ls
+  176  git gitamfdp fetch
+  177  git pull gitamfdp
+  178  ls
+  179  git init
+  180  git remote add gitamfdp https//:github.com/Akash-sinha/Gitam-FDP-April-2019
+  181  git pull
+  182  cd..
+  183  cd ..
+  184  cd ..
+  185  mkdir test
+  186  mkdir test
+  187  cd test
+  188  git remote add test2 https//:github.com/Akash-sinha/test2
+  189  git pull test master
+  190  git pull test2 master
+  191  git remote add test2 https//:github.com/Akash-sinha/test2/
+  192  git pull test2 master
+  193  git remote add test2 https//:github.com/Akash-sinha/test2
+  194  git pull test2 master
+  195  git pull test2 master
+  196  git remote add delta2 https://github.com/Ikarthikmb/delta2
+  197  git pull delta2 master
+  198  cd Desktop
+  199  cd SRT/
+  200  cd Git/
+  201  cd Programs/
+  202  ls
+  203  git clone https//:github.com/Akash-sinha/test2
+  204  git clone <https//:github.com/Akash-sinha/test2>
+  205  git clone <https//:github.com/Akash-sinha/test2>
+  206  git clone https://github.com/Ikarthikmb/delta2
+  207  git commit -m "data2 file updated
+  208  cd Desktop
+  209  cd SRT/
+  210  cd Git/
+  211  cd Programs/
+  212  git init
+  213  history 200 > git-commands.txt
