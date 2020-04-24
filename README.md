@@ -6,10 +6,10 @@
 - [10th May2019](#10th-may-2019)
 - [12th May2019](#12th-may-2019)
 - [14th May2019](#14th-may-2019)
-- [15th May2019](#15th-may-2019)
+- [15th May2019(Regular Expressions)](#15th-may-2019)
 - [16th May2019](#16th-may-2019)
-- [17th May2019](#17th-may-2019)
-- [18th May2019](#18th-may-2019)
+- [17th May2019(Numpy, Pandas, CSV files)](#17th-may-2019)
+- [18th May2019(Matplotlib)](#18th-may-2019)
 - [19th May2019](#19th-may-2019)
 
 ---
