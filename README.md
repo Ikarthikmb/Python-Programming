@@ -120,7 +120,7 @@
 
 ---
 
-### [12 May 2019](#contents)
+### [12th May 2019](#contents)
 
 **Problem statement-01:** You are given n words. Some words may repeat. For each word, output its number of occurrences. The output order should correspond with the input order of appearance of the word.
 
@@ -186,7 +186,7 @@ Output must contain the length of A' list
 
 ---
 
-## [14 May 2019](#contents)
+## [14th May 2019](#contents)
 
 ### Hackathon - Phase 1
 
@@ -205,7 +205,7 @@ X is made up of one or more occurrences of 9 and zero or more occurrences of 0.
 
 ---
 
-## [15 May 2019](#contents)
+## [15th May 2019](#contents)
 
 **Topics:**
 
@@ -215,7 +215,7 @@ X is made up of one or more occurrences of 9 and zero or more occurrences of 0.
 
 ---
 
-## [16 May 2019](#contents)
+## [16th May 2019](#contents)
 
 **Topics:**
 
@@ -225,7 +225,7 @@ X is made up of one or more occurrences of 9 and zero or more occurrences of 0.
 
 ---
 
-## [17 May 2019](#contents)
+## [17th May 2019](#contents)
 
 **Topics:**
 
@@ -235,7 +235,7 @@ X is made up of one or more occurrences of 9 and zero or more occurrences of 0.
 
 ---
 
-## [18 May 2019](#contents)
+## [18th May 2019](#contents)
 
 **Topics:**
 
@@ -248,7 +248,7 @@ X is made up of one or more occurrences of 9 and zero or more occurrences of 0.
 
 ---
 
-## [19 May 2019](#contents)
+## [19th May 2019](#contents)
 
 **Problem statement-01:** Consider the following algorithm to generate a sequence of numbers. Start with an integer n. If n is even, divide by 2. If n is odd, multiply by 3 and add 1. Repeat this process with the new value of n, terminating when n = 1. For example, the following sequence of numbers will be generated for n = 22:
 
