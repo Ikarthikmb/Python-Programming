@@ -7,10 +7,10 @@
 - [12th May2019](#12th-may-2019)
 - [14th May2019](#14th-may-2019)
 - [15th May2019](#15th-may-2019)
-- [16th May20190](#16th-may-2019)
-- [17th May20190](#17th-may-2019)
-- [18th May20190](#18th-may-2019)
-- [19th May20190](#19th-may-2019)
+- [16th May2019](#16th-may-2019)
+- [17th May2019](#17th-may-2019)
+- [18th May2019](#18th-may-2019)
+- [19th May2019](#19th-may-2019)
 
 ---
 
